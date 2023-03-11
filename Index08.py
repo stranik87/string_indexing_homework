@@ -6,5 +6,8 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    return s.index("*")
+
+
+print(main("c*der"))    
         
